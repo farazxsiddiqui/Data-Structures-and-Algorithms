@@ -10,8 +10,8 @@ public class InsertionSortAC {
 
     public static void main(String[] args) {
         int[] arr = {1, 8, 5, 4, 2, 6, 3, 9, 7};
-        //Bubble sort
-        //Time Complexity = O(n^2)
+        //Insertion sort
+        //Worst Case - Time Complexity = O(n^2)
         //Outer loop runs for n-1(worst case) times and the inner loop runs for n-1(worst case),n-2,n-3,....,0(best case) times
         //O(n-1)*O(n-1)
         //O(n)*O(n)
