@@ -13,12 +13,7 @@ Go to "Faraz" directory and you will find the source code of different Data Stru
 
 *This repository is under construction!* 
 
-If you are an absoulute beginner you can refer to the lectures by [Kunal Kushwaha](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
-and [Apna College](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop).
-
-Please keep in mind that the lectures by Apna College are not good enough for interviews, they can only help you in getting familiar with the syntax
-and a shallow discussion on the topics of Data Structures and Algorithms.
-If you want to prepare for interviews, you need to study Data Structures and Algorithms in depth and Kunal Kushwaha is my recommendation for the same.
+If you are an absoulute beginner you can refer to the lectures by [Kunal Kushwaha](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ).
 
 I also maintain a repository called "[LeetCode](https://github.com/farazxsiddiqui/LeetCode)" where I document my progress on LeetCode,
 you can refer this repository for some good questions that are recommended by seniors.
